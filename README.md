@@ -76,9 +76,11 @@ I'm proficient in a wide range of technologies across the stack. Here are some o
 
 <table>
   <tr>
-    <td width="100px" align="center">
-      <!-- TODO: Replace with blue recom logo and make text white to better contrast with dark mode -->
-      <img src="https://github.com/tannerboysun/tannerboysun/blob/main/assets/recom.png" alt="RECOM Logo"/>
+    <td width="200px" align="center">
+      <a href="https://github.com/recom-org">
+        <!-- TODO: Replace with blue recom logo and make text white to better contrast with dark mode -->
+        <img src="https://github.com/tannerboysun/tannerboysun/raw/main/assets/recom.png" alt="RECOM Logo"/>
+      </a>
     </td>
     <td>
       <strong>Software Engineer @ <a href="https://github.com/recom-org">RECOM</a></strong>
@@ -87,7 +89,9 @@ I'm proficient in a wide range of technologies across the stack. Here are some o
   </tr>
   <tr>
     <td width="200px" align="center">
-      <img src="https://github.com/tannerboysun/tannerboysun/blob/main/assets/png2.png" alt="Extend Software Logo"/>
+      <a href="https://extend.software">
+        <img src="https://github.com/tannerboysun/tannerboysun/raw/main/assets/png2.png" alt="Extend Software Logo"/>
+      </a>
     </td>
     <td>
       <strong>Founder & Freelancer @ <a href="https://extend.software">Extend Software</a></strong>
